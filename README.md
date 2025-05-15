@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F07B3F&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Slicing+through+code+like+fresh+bread;Clean+architecture+enthusiast;UI/UX+craftsman)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2000&pause=1500&color=F77007&center=true&vCenter=true&width=435&lines=kromka.dev;Clean+architecture+enthusiast;Slicing+through+code+like+fresh+bread)](https://git.io/typing-svg)
 
   [![GitHub followers](https://img.shields.io/github/followers/kromka-dev?style=social)](https://github.com/kromka-dev)
   [![Twitter: kromka_dev](https://img.shields.io/twitter/follow/kromka_dev?style=social)](https://twitter.com/kromka_dev)
