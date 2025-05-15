@@ -57,4 +57,5 @@ Hi there! I'm a full-stack developer passionate about creating clean, efficient,
 
 > "Good code is like good bread - simple in ingredients, but requires time and precision."
 
+---
 *Thanks for stopping by my GitHub profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi!*
