@@ -58,9 +58,7 @@ When I'm not crafting immersive experiences for FiveM servers, you'll find me ex
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-breeze%237777-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-breeze-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breeze)
-[![Email](https://img.shields.io/badge/Email-breeze@fivem.dev-3ABFF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breeze@fivem.dev)
+[![Discord](https://img.shields.io/badge/Discord-breeze%237777-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1161931911489388565)
 
 </div>
 
