@@ -46,15 +46,6 @@ When I'm not crafting immersive experiences for FiveM servers, you'll find me ex
 
 - 🏖️ **N/A**
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feelthebreeze&show_icons=true&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=3ABFF8&icon_color=3ABFF8" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feelthebreeze&theme=ocean_dark&hide_border=true&background=0D1117&ring=3ABFF8&fire=3ABFF8&currStreakLabel=3ABFF8" />
-</div>
-
 ## 🌺 Connect With Me
 
 <div align="center">
