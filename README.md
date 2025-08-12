@@ -48,6 +48,7 @@ When I'm not crafting immersive experiences for FiveM servers, you'll find me ex
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feelthebreeze&show_icons=true&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=3ABFF8&icon_color=3ABFF8" />
   
